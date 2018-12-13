@@ -4,13 +4,13 @@ project(GeodesicSlicer)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "http://slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/GeodesicSlicer")
+set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/4.8/Modules/GeodesicSlicer")
 set(EXTENSION_CATEGORY "Informatics")
 set(EXTENSION_CONTRIBUTORS "Frederic Briend ((UNICAEN)), Antoine Nourry ((UMS 3408))")
 set(EXTENSION_DESCRIPTION "This module calculates geodesic path in 3D structure. Thanks to this geodesic path, this module could draw an EEG 10-20 system
-<li>See <a href="https://www.slicer.org/wiki/Documentation/4.8/Modules/testModule">Geodesic Slicer documentation</a> for more details.</li>")
-set(EXTENSION_ICONURL "http://www.example.com/Slicer/Extensions/GeodesicSlicer.png")
-set(EXTENSION_SCREENSHOTURLS "http://www.example.com/Slicer/Extensions/GeodesicSlicer/Screenshots/1.png")
+<li>See <a href='https://www.slicer.org/wiki/Documentation/4.8/Modules/testModule'>Geodesic Slicer documentation</a> for more details.</li>")
+set(EXTENSION_ICONURL "https://www.slicer.org/w/images/d/dc/GeodesicSlicer_logo.png")
+set(EXTENSION_SCREENSHOTURLS "https://www.slicer.org/w/images/thumb/c/ce/Screen-shot_of_the_GeodesicSlicer_program._.png/300px-Screen-shot_of_the_GeodesicSlicer_program._.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a space separated string, a list or 'NA' if any
 
 #-----------------------------------------------------------------------------
